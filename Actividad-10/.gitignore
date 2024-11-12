@@ -1,0 +1,13 @@
+# Archivo para Ignorar Archivo con Elementos Sensibles.
+
+###############################################################################
+#
+# Programador: Jorge Aureliano Gallegos Esparza.
+#
+# Fecha Inicio: 18-oct-2024.
+# Última Modificación: 22-oct-2024.
+#
+###############################################################################
+
+# Lista de Archivos.
+terraform.tfvars
